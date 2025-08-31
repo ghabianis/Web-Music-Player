@@ -51,7 +51,7 @@ music-player/
 Here’s a preview of the Music Player UI:
 
 <!-- Replace with actual screenshot file -->
-![Music Player Screenshot](./screenshot.png) <!-- replace with your screenshot path -->
+![Music Player Screenshot](https://github.com/ghabianis/Web-Music-Player/blob/master/images/playerui.png) <!-- replace with your screenshot path -->
 
 👨‍💻 Author
 
